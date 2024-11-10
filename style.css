@@ -6,13 +6,6 @@ body{
   
 }
 
-.gif {
-  height: 200px;
-  position: absolute;
-  left: 150px;
-  top: 300px;
-}
-
 header{
   display: flex;
   align-items: center;
